@@ -1,2 +1,2 @@
-# TP1-Composi-o-Musical-Algor-tmica-Gram-tica-Generativa-N-o-Determin-stica
+# TP1-Composição Musical Algorítmica - Gramática Generativa Não-Determinística
 Composição Musical Algorítmica - Gramática Generativa Não-Determinística
